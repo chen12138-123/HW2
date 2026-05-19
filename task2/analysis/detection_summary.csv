@@ -1,0 +1,4 @@
+run,best_epoch,precision,recall,map50,map5095,epochs,batch,imgsz,optimizer,lr0,best_pt
+yolov8s_e80_img640_b32_lr001,53,0.5176,0.5765,0.5431,0.3105,80,32,640,SGD,0.01,/mnt/disk/maoqijun/runs/detect/MLLM/yolov8s_e80_img640_b32_lr001/weights/best.pt
+yolo11s_e80_img640_b32_lr001,61,0.6010,0.4573,0.5179,0.2927,80,32,640,SGD,0.01,/mnt/disk/maoqijun/runs/detect/MLLM/yolo11s_e80_img640_b32_lr001/weights/best.pt
+yolov8n_e80_img640_b32_lr001,69,0.6875,0.3912,0.4456,0.2706,80,32,640,SGD,0.01,/mnt/disk/maoqijun/runs/detect/MLLM/yolov8n_e80_img640_b32_lr001/weights/best.pt
